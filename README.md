@@ -19,7 +19,7 @@
 
   ## 📫 How to reach me
 
-You can reach me at divyatak35@gmail.com or on LinkedIn. ( https://www.linkedin.com/in/divya-tak-130432296/ )
+You can reach me at divyatak35@gmail.com or on LinkedIn. ( www.linkedin.com/in/takdivya )
 
 Thank you for visiting my GitHub profile!
 
