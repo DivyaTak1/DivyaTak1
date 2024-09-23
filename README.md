@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DivyaTak1
-- 👀 I’m interested in visualisation and learning
-- 🌱 I'm Currently Learning Business Analysis with a passion for turning data into actionable insights.
-- 💞️ I’m looking to collaborate on Real Time analysis Projects.
-- 😄 Pronouns: she/her
+-  Hi, I’m @DivyaTak1
+-  I’m interested in visualisation and learning
+-  I'm Currently Learning Business Analysis with a passion for turning data into actionable insights.
+-  I’m looking to collaborate on Real Time analysis Projects.
+-  Pronouns: she/her
 
   ## 📊 Skills and Experience
 - **Business Intelligence Tools:** Proficiency in Tableau, PowerBI, and Excel for creating dynamic and interactive dashboards.
